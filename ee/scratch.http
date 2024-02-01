@@ -1,0 +1,11 @@
+POST http://localhost:8080/checkLogin
+Content-Type: application/json
+
+{
+  "username": "123",
+  "password": "123123"
+}
+
+<> 2024-01-19T173927.200.json
+
+###
